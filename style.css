@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  padding: 20px;
+  margin: 20px;
+}
+
+.fontsiz {
+  font-size: 2rem;
+}
+.game {
+  margin-top: 10px;
+}
+
+button {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  width: 120px;
+  height: 60px;
+  font-size: 1.5rem;
+  border-radius: 10px;
+}
